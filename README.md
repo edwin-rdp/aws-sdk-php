@@ -1,4 +1,4 @@
-# AWS SDK for PHP 2
+# AWS SDK for PHP v2.2.0
 
 The **AWS SDK for PHP** enables PHP developers to easily work with [Amazon Web Services][aws] and build scalable
 solutions with Amazon S3, Amazon DynamoDB, Amazon Glacier, and more. You can get started in minutes by [installing the
